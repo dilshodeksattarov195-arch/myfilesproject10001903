@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerpync",
+        "uuid": 8335140,
+        "checksum": "zq2ga"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
